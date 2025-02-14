@@ -62,9 +62,4 @@ Ensure you have the following installed:
 - ⚠ **Modify** `proxy.py` to include valid proxy configurations.
 - ⚠ **The script** uses `random.choice()` to select a proxy for each request.
 
-## Author
-**Your Name**
-
-## License
-This project is licensed under the **MIT License**.
 
