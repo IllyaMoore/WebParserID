@@ -8,7 +8,6 @@ class Proxy:
         self.password = password
 
     def get_proxy_string(self):
-        """Формує рядок проксі для requests."""
         if self.username and self.password:
             return f"http://{self.username}:{self.password}@{self.ip}:{self.port}"
         return f"http://{self.ip}:{self.port}"

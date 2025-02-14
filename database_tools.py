@@ -9,7 +9,7 @@ proxy_list = [proxy1.get_proxy_string(), proxy2.get_proxy_string(), proxy3.get_p
 
 DB_NAME = "postgres"
 DB_USER = "postgres"
-DB_PASSWORD = "illya11335577"
+DB_PASSWORD = ""
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
